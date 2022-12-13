@@ -1,7 +1,7 @@
 const firstName = prompt("informe o seu primeiro nome");
 const lastName = prompt("informe o seu sobrenome");
-const fieldOfStudy = prompt("Qual é o campo de estuda?");
-const yearOfBirth = prompt("Qual é o sua ano de nascimento?");
+const fieldOfStudy = prompt("Qual é o campo de estudo?");
+const yearOfBirth = prompt("Qual é o seu ano de nascimento?");
 
 alert(
   "Você foi cadastrado com suceso! \n" +
